@@ -1,0 +1,8 @@
+/**
+ * Main Styles.
+ **/
+@import url("layout.css");
+
+body {
+	color:#f00;
+}
